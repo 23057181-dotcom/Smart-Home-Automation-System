@@ -5,10 +5,6 @@ This project is a Java-based implementation of a **Smart Home Automation System*
 
 The system simulates a central control unit that manages different types of smart devices (Lights and Fans) using a unified interface. It demonstrates how different objects can share a common parent structure while behaving differently—a core concept of Polymorphism.
 
-## 🎥 Video Presentation
-**[PASTE YOUR YOUTUBE VIDEO LINK HERE]**
-
-> *Note: This video contains the introduction, code explanation, demonstration, peer Q&A, and reflection as required.*
 
 ---
 
